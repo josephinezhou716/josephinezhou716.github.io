@@ -8,4 +8,4 @@ lab*.ipynb
 
 # virtual environments
 .venv/
-myenv/
+venv1/
