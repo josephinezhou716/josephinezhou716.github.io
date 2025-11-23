@@ -9,3 +9,8 @@ lab*.ipynb
 # virtual environments
 .venv/
 venv1/
+
+.DS_Store
+venv1/
+.venv/
+311_Service_Requests_201901.csv
