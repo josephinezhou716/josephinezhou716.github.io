@@ -4,4 +4,4 @@ kaleido
 plotly
 statsmodels
 dash
-jupyter-book
+jupyter-book==0.15.1
